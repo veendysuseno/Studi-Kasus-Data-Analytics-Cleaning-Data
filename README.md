@@ -6,8 +6,8 @@
 
 ## Instruksi Pengerjaan:
 
-- Pada misi kali ini, ada beberapa hal yang harus kita lakukan.
-  1. Menampilkan jumlah data yang duplikat pada dataset
-  2. Menampilkan jumlah missing value pada dataset
-  3. Melakukan drop pada baris yang memiliki missing value
-  4. Menampilkan jumlah data yang tersisa setelah melakukan drop
+- Pada misi kali ini, ada beberapa hal yang harus kita lakukan. <br/>
+  1. Menampilkan jumlah data yang duplikat pada dataset. <br/>
+  2. Menampilkan jumlah missing value pada dataset. <br/>
+  3. Melakukan drop pada baris yang memiliki missing value. <br/>
+  4. Menampilkan jumlah data yang tersisa setelah melakukan drop. <br/>
